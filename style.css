@@ -1,0 +1,61 @@
+#divStyle {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#productspan {
+  margin-left: 3%;
+}
+
+#descriptionspan {
+  margin-left: 20%;
+}
+
+#pricespan {
+  margin-left: 15%;
+}
+
+#updbtn {
+  margin-left: 15%;
+}
+#delbtn {
+  margin-left: 15%;
+}
+
+#updbtn {
+  background-color: #33ff3a;
+  right: 8%;
+}
+
+#delbtn {
+  background-color: #4733ff;
+  right: 17%;
+}
+
+button {
+  font-size: 16px;
+  background-color: #33ff5f;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #b8cc00;
+}
+
+h1 {
+  text-align: center;
+}
+#out {
+  background-color: red;
+  top: 20px;
+  right: 20px;
+  position: fixed;
+}
+#imgset {
+  width: 100px;
+  height: 50px;
+}
